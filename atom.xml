@@ -3,7 +3,7 @@
   <title><![CDATA[Rong]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com"/>
-  <updated>2013-07-21T15:08:34.866Z</updated>
+  <updated>2013-07-21T15:38:13.778Z</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Rong]]></name>
@@ -34,28 +34,6 @@
 </li>
 </ol>
 <p>然后现在看下效果，哈哈哈。</p>
-]]></content>
-    <category scheme="http://yoursite.com/tags/other/" term="other"/>
-    <category scheme="http://yoursite.com/categories/other/" term="other"/>
-  </entry>
-  <entry>
-    <title type="html"><![CDATA[Second]]></title>
-    <link href="http://yoursite.com/2013/07/21/201307211/"/>
-    <id>http://yoursite.com/2013/07/21/201307211/</id>
-    <published>2013-07-21T12:59:30.000Z</published>
-    <updated>2013-07-21T13:42:49.000Z</updated>
-    <content type="html"><![CDATA[<p>What&#39;s this?</p>
-]]></content>
-    <category scheme="http://yoursite.com/tags/other/" term="other"/>
-    <category scheme="http://yoursite.com/categories/other/" term="other"/>
-  </entry>
-  <entry>
-    <title type="html"><![CDATA[firstblog]]></title>
-    <link href="http://yoursite.com/2013/07/21/Second/"/>
-    <id>http://yoursite.com/2013/07/21/Second/</id>
-    <published>2013-07-21T09:52:53.000Z</published>
-    <updated>2013-07-21T09:54:10.000Z</updated>
-    <content type="html"><![CDATA[<p>Less is more</p>
 ]]></content>
     <category scheme="http://yoursite.com/tags/other/" term="other"/>
     <category scheme="http://yoursite.com/categories/other/" term="other"/>
