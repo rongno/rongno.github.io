@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2013/08/18/post/</loc>
+    <lastmod>2013-08-30T15:21:35.000Z</lastmod>
+  </url>
+  <url>
     <loc>http://yoursite.com/2013/08/05/post20130805/</loc>
     <lastmod>2013-08-09T16:20:12.000Z</lastmod>
   </url>
